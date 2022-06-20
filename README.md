@@ -1,2 +1,1 @@
-# Code
-New code App "Clicker"
+Новый исходный код приложения "Clicker"
